@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, Main!</string>
+    <string name="app_name">CheckedTextView 示例</string>
+    <string name="checkedTextView1">TextView多选框1</string>
+    <string name="checkedTextView2">TextView多选框2</string>
+    <string name="checkedTextView3">TextView多选框3</string>
+    <string name="checkedTextView4">TextView多选框4</string>    
+</resources>
